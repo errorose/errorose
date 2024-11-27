@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align= "center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💗About Me💗 </h2>  
   <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-    ✨안녕하세요✨ 백엔드 개발자 윤예슬입니다. 😄 <br/></li>오류를 두려워하지 않고, 문제해결을 즐기는 개발자가 되는게 목표입니다. 
+    ✨안녕하세요✨ 웹 백엔드 개발을 공부하고 있는 학생입니다. 😄 <br/></li>오류를 두려워하지 않고, 문제해결을 즐기는 개발자가 되는게 목표입니다. 
   </div> 
 </div>
 
